@@ -1,3 +1,4 @@
-| Projects and Notebooks | Description | Status of Completion |
+| Projects Name and Notebooks | Description | Status of Completion |
 | ----- | -----| -----|
 | 01. [**Classifying Iris Species**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Classifying%20Iris%20Species) | This project involves the classification of Iris species, a popular machine learning task. The objective is to build a model capable of categorizing different species of Iris flowers by analyzing their petal and sepal measurements. | :white_check_mark: |
+| 02.  [**EDA on Bank Dataset**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/EDA%20On%20Banking%20Dataset) | This project involves a thorough analysis of a bank dataset. The dataset encompasses various client-related features, communication details, and economic indicators. The primary objective is to uncover insights into the factors influencing clients' decisions to subscribe to a term deposit. | :white_check_mark: |
