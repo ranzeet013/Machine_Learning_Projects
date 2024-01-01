@@ -1,2 +1,3 @@
-# Machine_Learnings
-The Machine Learnings repo consist of open-source machine learning projects covering various domains. It provides users with access to diverse projects, complete with documentation, tutorials, and datasets. Users can engage with the community, contribute to projects, and stay updated with the latest developments
+| Projects and Notebooks | Description | Status of Completion |
+| ----- | -----| -----|
+| 01. [**Classifying Iris Species**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Classifying%20Iris%20Species) | This project involves the classification of Iris species, a popular machine learning task. The objective is to build a model capable of categorizing different species of Iris flowers by analyzing their petal and sepal measurements. | :white_check_mark: |
