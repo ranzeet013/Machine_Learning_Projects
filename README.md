@@ -9,3 +9,19 @@
 | 07.  [**Multiple Sclerosis (MS) Disease Classification**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Multiple%20Sclerosis%20(MS)%20Disease%20Classification) | The goal of this project is to develop a machine learning model for the classification of Multiple Sclerosis (MS) disease. MS is a chronic autoimmune disease affecting the central nervous system, causing various neurological symptoms. Early detection and accurate classification of MS can assist in timely intervention and treatment planning. | :white_check_mark: |
 | 08.  [**Mushroom Classification**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Mushroom%20Classification) | The Mushroom Classification project aims to develop a system that can accurately classify different types of mushrooms based on their characteristics. The project utilizes machine learning algorithms to train a model on a dataset of mushroom samples and their corresponding labels. | :white_check_mark: |
 | 09.  [**Predicting Body Activity**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Predicting%20Body%20Activity) | The objective of this project is to develop machine learning models that can predict and analyze body activity based on various input data. By leveraging machine learning techniques, we aim to create models that can accurately predict and classify different body activities, providing valuable insights and potential applications in areas such as healthcare, fitness tracking, and sports performance analysis. | :white_check_mark: |
+| 10.  [**Predicting CO2 Emission Per Capita**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Predicting%20CO2%20Emission%20Per%20Capita) | The CO2 Emission Per Capita Prediction project aims to develop a data-driven solution that accurately forecasts carbon dioxide (CO2) emissions on a per capita basis for different regions or countries. The project seeks to leverage historical emissions data, socio-economic indicators, and potentially other relevant variables to create a predictive model capable of estimating future emissions per person. The ultimate goal is to gain insights into emission trends, identify factors influencing emissions, and aid policymakers in making informed decisions to mitigate climate change. | :white_check_mark: |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
