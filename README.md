@@ -17,7 +17,7 @@
 | 15. [**Predicting Student Success Rate**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Predicting%20Student%20Success%20Rate) | :white_check_mark: |
 | 16. [**Predicting Video Game Sales**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Predicting%20Video%20Game%20Sales) | :white_check_mark: |
 | 17. [**Sarcasm Classification**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Sarcasm%20Classification) | :white_check_mark: |
-
+| 18. [**Stephen Curry NBA Stat Analysis**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Stephen%20Curry%20%20NBA%20Stat%20Analysis) | :white_check_mark: |
 
 
 
