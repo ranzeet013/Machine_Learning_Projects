@@ -15,6 +15,8 @@
 | 13. [**Predicting Diamond Price**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Predicting%20Diamond%20Price) | :white_check_mark: |
 | 14. [**Predicting Future Sales**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Predicting%20Future%20Sales) | :white_check_mark: |
 | 15. [**Predicting Student Success Rate**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Predicting%20Student%20Success%20Rate) | :white_check_mark: |
+| 16. [**Predicting Video Game Sales**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Predicting%20Video%20Game%20Sales) | :white_check_mark: |
+| 17. [**Sarcasm Classification**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Sarcasm%20Classification) | :white_check_mark: |
 
 
 
