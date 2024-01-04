@@ -19,7 +19,7 @@
 | 17. [**Sarcasm Classification**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Sarcasm%20Classification) | :white_check_mark: |
 | 18. [**Stephen Curry NBA Stat Analysis**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Stephen%20Curry%20%20NBA%20Stat%20Analysis) | :white_check_mark: |
 | 19. [**Wine Class Prediction**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Wine%20Class%20Prediction) | :white_check_mark: |
-
+| 20. [**Visualizing_Nobel_Prize_History**](https://github.com/ranzeet013/Visualizing_Nobel_Prize_History) | :white_check_mark: |
 
 
 
