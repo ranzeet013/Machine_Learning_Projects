@@ -22,5 +22,14 @@
 | 20. [**Visualizing_Nobel_Prize_History**](https://github.com/ranzeet013/Visualizing_Nobel_Prize_History) | :white_check_mark: |
 
 
+## Projects Discription :
+
+### 01. Classifying Iris Species :
+
+In this project, I started by loading the Iris dataset from scikit-learn. The primary goal was to delve into the classification of distinct Iris species, employing both K-Nearest Neighbors (KNN) and Random Forest models. Following the acquisition of the dataset, I split it into training and testing sets to ensure a thorough evaluation of how well our models perform. Then I generated a correlation matrix, showing potential relationships among variables and providing valuable insights into the dataset's intrinsic structure. The next steps involved a assessment of model performance using metrics such as accuracy, classification reports, and confusion matrices. To reveal the models' ability to handle new data effectively, I used cross-validation techniques, specifically KFold and LeaveOneOut. The final touch involved utilizing the ConfusionMatrixDisplay function for a detailed and visually insightful interpretation of our classification results.
+
+Link :
+[Classifying Iris Species](https://github.com/ranzeet013/Machine_Learning_Projects/blob/main/Classifying%20Iris%20Species/Classifying%20Iris%20Species.ipynb)
+
 
 
