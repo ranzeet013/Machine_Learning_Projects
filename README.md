@@ -1,4 +1,4 @@
-| Projects Name and Notebooks | Status of Completion |
+| Projects Name and Notebooks | Status of Completon |
 | ----- | -----|
 | 01. [**Classifying Iris Species**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Classifying%20Iris%20Species) | :white_check_mark: |
 | 02. [**EDA On Banking Dataset**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/EDA%20On%20Banking%20Dataset) | :white_check_mark: |
