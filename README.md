@@ -147,9 +147,6 @@ In this NBA player box score analysis, the project begins by importing relevant 
 Link:
 [Stephen Curry NBA Stat Analysis](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Stephen%20Curry%20%20NBA%20Stat%20Analysis)
 
-Link:
-[Stephen Curry NBA Stat Analysis]()
-
 ### 19. Wine Class Prediction :
 
 In this wine class prediction project, I initiated the analysis by importing essential Python libraries. The focus was on exploring a wine dataset containing information about different wine samples. The initial steps involved examining the dataset's structure, checking for missing values, and obtaining an overview of the dataset through descriptive statistics. Visualizations played a crucial role in the exploratory data analysis (EDA), employing bar charts to illustrate the distribution of wine classes. Additionally, a correlation matrix heatmap was generated to reveal relationships between various wine features. The correlation of individual features with the target variable, representing wine classes, was also investigated using bar plots. The dataset was split into training and testing sets, and numerical feature scaling was applied to standardize the data. For model development, a RandomForestClassifier was selected, and its performance was evaluated using accuracy scores, confusion matrices, and classification reports.
