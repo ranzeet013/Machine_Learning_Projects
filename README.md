@@ -24,6 +24,7 @@
 | 22. [**Airline Passenger Prediction**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Airline%20Passenger%20Prediction) | :white_check_mark: |
 | 23. [**Credit Card Clustering**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Credit%20Card%20Clustering) | :white_check_mark: |
 | 24. [**Predicting Electricity Production**](https://github.com/ranzeet013/Analysis_Projects/tree/main/LSTM%20for%20Predicting%20Electricity%20Production) | :white_check_mark: |
+| 25. [Predicting Beer Production in Aus](https://github.com/ranzeet013/Analysis_Projects/tree/main/Predicting%20Beer%20Production%20In%20Aus) | :white_check_mark: |
 
 ## Projects Discription :
 
