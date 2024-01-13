@@ -21,6 +21,7 @@
 | 19. [**Wine Class Prediction**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Wine%20Class%20Prediction) | :white_check_mark: |
 | 20. [**Visualizing_Nobel_Prize_History**](https://github.com/ranzeet013/Visualizing_Nobel_Prize_History) | :white_check_mark: |
 | 21. [**911 Calls Capstone**](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/911%20Calls%20Capstone) | :white_check_mark: |
+| 22. [**Airline Passenger Prediction**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Airline%20Passenger%20Prediction) | :white_check_mark: |
 
 ## Projects Discription :
 
