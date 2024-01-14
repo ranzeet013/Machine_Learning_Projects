@@ -29,6 +29,8 @@
 | 27. [**Housing Price Prediction**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Housing%20Price%20Prediction) | :white_check_mark: |
 | 28. [**Medical Insurance Premium Prediction**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Medical%20Insurance%20Premium%20Prediction) | :white_check_mark: |
 | 29. [**Water Quality Clustering**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Water%20Quality%20Clustering) | :white_check_mark: |
+| 30. [**Customer Churn Rate Prediction**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Customer%20Churn%20Rate%20Prediction) | :white_check_mark: |
+
 
 ## Projects Discription :
 
