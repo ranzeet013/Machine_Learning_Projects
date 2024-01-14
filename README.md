@@ -26,6 +26,7 @@
 | 24. [**Predicting Electricity Production**](https://github.com/ranzeet013/Analysis_Projects/tree/main/LSTM%20for%20Predicting%20Electricity%20Production) | :white_check_mark: |
 | 25. [**Predicting Beer Production in Aus**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Predicting%20Beer%20Production%20In%20Aus) | :white_check_mark: |
 | 26. [**Dogecoin Price Prediction**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Dogecoin%20Price%20Prediction) | :white_check_mark: |
+| 27. [**Housing Price Prediction**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Housing%20Price%20Prediction) | :white_check_mark: |
 
 ## Projects Discription :
 
