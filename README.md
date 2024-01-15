@@ -30,7 +30,7 @@
 | 28. [**Medical Insurance Premium Prediction**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Medical%20Insurance%20Premium%20Prediction) | :white_check_mark: |
 | 29. [**Water Quality Clustering**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Water%20Quality%20Clustering) | :white_check_mark: |
 | 30. [**Customer Churn Rate Prediction**](https://github.com/ranzeet013/Analysis_Projects/tree/main/Customer%20Churn%20Rate%20Prediction) | :white_check_mark: |
-
+| 31. [**Visualizing Students Performance**](https://github.com/ranzeet013/Student_Performance_Visualization) | :white_check_mark: |
 
 ## Projects Discription :
 
