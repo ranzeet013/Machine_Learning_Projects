@@ -83,7 +83,7 @@ In this analysis, the project began by importing and exploring a dataset focused
 Link:
 [Multiple Sclerosis (MS) Disease Classification](https://github.com/ranzeet013/Machine_Learning_Projects/tree/main/Multiple%20Sclerosis%20(MS)%20Disease%20Classification)
 
-### 09. Mushroom Classification :
+### 09. Mushroom Classification : 
 
 In this Mushroom Classification project, the primary objective is to develop an accurate system for classifying different types of mushrooms based on their characteristics. The analysis begins by exploring dataset, containing information about mushrooms, is then explored, and steps are taken to handle missing values and perform label encoding to convert categorical variables into numerical representations. Descriptive statistics, including the dataset's shape, information, and the distribution of the target variable ("class"), are analyzed. A correlation matrix and a correlation bar plot with the target variable are employed for feature analysis. The dataset is split into training and testing sets, and features are scaled using StandardScaler. Four machine learning classifiers, namely Random Forest Classifier, Logistic Regression, Decision Tree Classifier, and K-Nearest Neighbors (KNN), are implemented and evaluated for accuracy using confusion matrices. Additionally, the Support Vector Classifier (SVC) is applied. The accuracy scores of each algorithm are summarized in a table, indicating high accuracy for most classifiers, with Random Forest Classifier achieving a perfect accuracy score of 1.0. 
 
